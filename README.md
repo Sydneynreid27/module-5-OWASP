@@ -1,6 +1,6 @@
 # module-5-OWASP
 
-For this assignment, your README has a section for each vulnerability that explains the flaw, provides a secure version, and explains the fix.
+
 
 # 1. Broken Access Control (JavaScript)
 
